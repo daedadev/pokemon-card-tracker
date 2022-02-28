@@ -4,7 +4,7 @@ import MainPage from "../components/mainPage";
 
 export default function index() {
   return (
-    <div className="flex flex-col bg-slate-600 h-screen">
+    <div className="flex flex-col bg-gray-600 h-screen">
       <Header />
       <MainPage />
     </div>

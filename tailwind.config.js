@@ -3,7 +3,11 @@ module.exports = {
     content: ["./pages/**/*.js", "./components/**/*.js"],
   },
   theme: {
-    extend: {},
+    extend: {
+      width: {
+        1280: "1280px",
+      },
+    },
   },
   variants: {
     extend: {},
