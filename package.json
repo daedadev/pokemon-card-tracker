@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wron1/pokemon-card-tracker.git"
+    "url": "git+https://github.com/daedadev/pokemon-card-tracker.git"
   },
   "author": "Daniel Moore",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/wron1/pokemon-card-tracker/issues"
+    "url": "https://github.com/daedadev/pokemon-card-tracker/issues"
   },
-  "homepage": "https://github.com/wron1/pokemon-card-tracker#readme",
+  "homepage": "https://github.com/daedadev/pokemon-card-tracker#readme",
   "dependencies": {
     "@tailwindcss/forms": "^0.4.0",
     "create-next-app": "^12.0.10",
